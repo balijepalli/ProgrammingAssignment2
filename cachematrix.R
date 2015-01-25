@@ -1,4 +1,4 @@
-#Assignment #1 - Part 1
+#Assignment #2 
 #https://class.coursera.org/rprog-010/human_grading
 
 ## --------------------------------------------------------------------------------
